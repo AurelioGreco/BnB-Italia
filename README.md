@@ -1,8 +1,6 @@
 # BnB-Italia #
 
-# Materialize Release: 1.0.0-alpha.3 #
-
-
+# Materialize Release: 1.0.0 #
 
 Run index.html to view.
 
